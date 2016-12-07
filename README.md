@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Hi, I'm Maurekka and I'm learning to code.
